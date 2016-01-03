@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Prime Directive:  Improve Humanity Humanely'
-datePublished: '2016-01-03T22:28:21.214Z'
-dateModified: '2016-01-03T22:28:16.979Z'
+datePublished: '2016-01-03T23:07:50.074Z'
+dateModified: '2016-01-03T23:07:39.047Z'
 author: []
 title: '"Prime" . ?'
 sourcePath: _posts/2016-01-03-prime-pram-adj-1-prenominal-first-in-quality-or-value.md
@@ -25,4 +25,7 @@ _type: Article
 ---
 ,
 
-**prime** (praɪm) adj (Coaching, Mentoring, Directing, Training) (_tr) _1\. To provide with needed resources for performance excellence. 2\. To prepare mentally, physically, and spiritually for a challenge. 3\. To remove obstacles to performance and control.
+**prime** (praɪm) adj   
+(Coaching, Mentoring, Directing, Training) (_tr) _1\. To provide with necessary resources.   
+2\. To prepare for a challenge.   
+3\. To remove obstacles.
