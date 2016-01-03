@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Treat before and beyond symptoms '
-datePublished: '2016-01-03T22:49:45.833Z'
-dateModified: '2016-01-03T22:49:42.148Z'
+datePublished: '2016-01-03T23:17:50.312Z'
+dateModified: '2016-01-03T23:17:45.256Z'
 author: []
 title: Prime Animal Wellness System
 sourcePath: _posts/2016-01-03-animal-wellnes-system-the-total-wellnes-system-for-animals-a.md
@@ -24,13 +24,11 @@ _type: Article
 
 ---
 # **Prime Animal Wellness System**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b411aeed74b74e869bcd4b799d0699ac8d47943.jpg)
 
 **Animal Lovers and Veterinarians**
 
-* Enjoy or offer a higher level of service for animals you love and those whose performance you invest in. 
-* Predict and prevent disease and treat for optimal wellness.
+* Enjoy a higher level of service for animals you love and whose performance you invest in. 
 * Clearly distinguish underlying energetic distortions in information fields.
 * Treat reactive energy blocks directly and remotely. 
-* Professional computer software for felines, canines, and equines. 
-* Professional QED/PEMF treatment wand, training, book, and online certification course.
+* Professional assessment software for felines, canines, and equines. 
+* QED/PEMF treatment wand, training, book, and online certification course.
