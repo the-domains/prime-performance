@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.thefreedictionary.com/prime'
 inLanguage: null
 starred: false
 keywords: []
 description: Prime is achieving or being rated second to none.
-datePublished: '2016-01-03T21:43:51.911Z'
-dateModified: '2016-01-03T21:43:47.678Z'
+datePublished: '2016-01-03T22:06:24.349Z'
+dateModified: '2016-01-03T22:06:17.469Z'
 author: []
 title: '"Prime" . ?'
 sourcePath: _posts/2016-01-03-prime-pram-adj-1-prenominal-first-in-quality-or-value.md
@@ -18,7 +19,6 @@ publisher:
   domain: www.thefreedictionary.com
   url: null
   favicon: null
-url: defining-prime/index.html
 _context: 'http://schema.org'
 _type: Article
 
