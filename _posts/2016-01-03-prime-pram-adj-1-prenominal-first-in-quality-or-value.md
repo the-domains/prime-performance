@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'prime (praɪm) adj 1. (prenominal) first in quality or value; first-rate 2. (prenominal) fundamental; original 3. (prenominal) first in importance, authority, et'
-datePublished: '2016-01-03T20:43:41.747Z'
-dateModified: '2016-01-03T20:33:23.034Z'
+description: Prime is achieving or being rated second to none.
+datePublished: '2016-01-03T21:12:45.715Z'
+dateModified: '2016-01-03T21:12:35.750Z'
 author: []
 title: 'Defining "Prime"  '
 sourcePath: _posts/2016-01-03-prime-pram-adj-1-prenominal-first-in-quality-or-value.md
