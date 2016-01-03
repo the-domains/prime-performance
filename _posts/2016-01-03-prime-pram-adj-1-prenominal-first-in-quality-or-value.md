@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.thefreedictionary.com/prime'
 inLanguage: null
 starred: false
 keywords: []
-description: Prime is achieving or being rated second to none.
-datePublished: '2016-01-03T22:06:24.349Z'
-dateModified: '2016-01-03T22:06:17.469Z'
+description: Prime is second to none.
+datePublished: '2016-01-03T22:09:30.579Z'
+dateModified: '2016-01-03T22:09:24.765Z'
 author: []
 title: '"Prime" . ?'
 sourcePath: _posts/2016-01-03-prime-pram-adj-1-prenominal-first-in-quality-or-value.md
@@ -45,8 +45,4 @@ _type: Article
 * 17\. (Automotive Engineering) (tr) to increase the quantity of fuel in the float chamber of (a carburettor) in order to facilitate the starting of an engine 
 * 18\. (Firearms, Gunnery, Ordnance & Artillery) (tr) to insert a primer into (a gun, mine, charge, etc) preparatory to detonation or firing 
 * 19\. (Mechanical Engineering) (intr) (of a steam engine or boiler) to operate with or produce steam mixed with large amounts of water 
-* 20\. (Coaching, Mentoring, Directing, Training) (_tr_) to provide with facts, information, etc, beforehand; brief 
-* null
-null
-null
-null
+* 20\. (Coaching, Mentoring, Directing, Training) (_tr_) to provide with facts, information, etc, beforehand; brief
