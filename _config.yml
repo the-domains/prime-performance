@@ -1,6 +1,6 @@
 name: Prime Performance
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.4431132373865694
 title: Priming your potential for greatness in your book
 cta:
@@ -23,7 +23,7 @@ color:
     - '#8bbefd'
     - '#24495c'
   brandStrength: 1
-  lightness: 0.8125
-  saturation: 0.1875
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.48552267951890826
 purpose: []
