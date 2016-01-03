@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Prime is achieving or being rated second to none.
-datePublished: '2016-01-03T21:12:45.715Z'
-dateModified: '2016-01-03T21:12:35.750Z'
+datePublished: '2016-01-03T21:40:57.550Z'
+dateModified: '2016-01-03T21:40:53.117Z'
 author: []
 title: 'Defining "Prime"  '
 sourcePath: _posts/2016-01-03-prime-pram-adj-1-prenominal-first-in-quality-or-value.md
