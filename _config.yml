@@ -1,0 +1,28 @@
+name: Prime Performance
+favicon: null
+layout_spectrum: 0.3058865449856967
+typography_spectrum: 0.4431132373865694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8511356075759977
+  lightness: 0.9180353009141982
+  saturation: 0.3955779045354575
+  rhythmicContrast: 0.48552267951890826
+purpose: []
