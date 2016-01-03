@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.thefreedictionary.com/prime'
 inLanguage: null
 starred: false
 keywords: []
-description: Prime is second to none.
-datePublished: '2016-01-03T22:26:30.184Z'
-dateModified: '2016-01-03T22:26:23.290Z'
+description: 'Prime Directive:  Improve Humanity Humanely'
+datePublished: '2016-01-03T22:28:21.214Z'
+dateModified: '2016-01-03T22:28:16.979Z'
 author: []
 title: '"Prime" . ?'
 sourcePath: _posts/2016-01-03-prime-pram-adj-1-prenominal-first-in-quality-or-value.md
