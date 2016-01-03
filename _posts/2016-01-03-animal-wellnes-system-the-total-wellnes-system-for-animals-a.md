@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Treat before and beyond symptoms '
-datePublished: '2016-01-03T23:17:50.312Z'
-dateModified: '2016-01-03T23:17:45.256Z'
+datePublished: '2016-01-03T23:20:15.068Z'
+dateModified: '2016-01-03T23:20:03.156Z'
 author: []
 title: Prime Animal Wellness System
 sourcePath: _posts/2016-01-03-animal-wellnes-system-the-total-wellnes-system-for-animals-a.md
@@ -27,7 +27,7 @@ _type: Article
 
 **Animal Lovers and Veterinarians**
 
-* Enjoy a higher level of service for animals you love and whose performance you invest in. 
+* A higher level of service for animals you love and whose performance you invest in or rely upon. 
 * Clearly distinguish underlying energetic distortions in information fields.
 * Treat reactive energy blocks directly and remotely. 
 * Professional assessment software for felines, canines, and equines. 
